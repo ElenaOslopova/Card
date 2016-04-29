@@ -1,0 +1,6 @@
+c:\users\oslopova_ev\documents\visual studio 2015\Projects\Cards\bin\Debug\Cards.exe.config
+c:\users\oslopova_ev\documents\visual studio 2015\Projects\Cards\bin\Debug\Cards.exe
+c:\users\oslopova_ev\documents\visual studio 2015\Projects\Cards\bin\Debug\Cards.pdb
+c:\users\oslopova_ev\documents\visual studio 2015\Projects\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+c:\users\oslopova_ev\documents\visual studio 2015\Projects\Cards\obj\Debug\Cards.exe
+c:\users\oslopova_ev\documents\visual studio 2015\Projects\Cards\obj\Debug\Cards.pdb
